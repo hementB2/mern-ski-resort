@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "First Event",
+    "description": "This is the content of the first event.",
+    "cost": 10,
+    "location": "123 street",
+    "date": "2024-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Second Event",
+    "description": "This is the content of the second event.",
+    "cost": 15,
+    "location": "london",
+    "date": "2024-09-05T15:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Third Event",
+    "description": "This is the content of the third event.",
+    "cost": 50000,
+    "location": "miami",
+    "date": "2025-05-10T08:45:00.000Z"
+  }
+]
