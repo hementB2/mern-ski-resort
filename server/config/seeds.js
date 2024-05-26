@@ -108,6 +108,18 @@ db.once('open', async () => {
   });
 
   await User.create({
+    firstName: 'Stella',
+    lastName: 'Ling',
+    email: 'jameshughes@gotmail.com',
+    password: 'password6243',
+    // orders: [
+    //   {
+    //     products: [products[0]._id, products[0]._id, products[1]._id]
+    //   }
+    // ]
+  });
+
+  await User.create({
     firstName: 'Michelle',
     lastName: 'Holt',
     email: 'mholt@testmail.com',
